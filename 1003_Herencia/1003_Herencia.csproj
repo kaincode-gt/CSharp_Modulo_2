@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9C304EC8-FF43-4D8D-A4AF-41F9321B7666}</ProjectGuid>
+    <ProjectGuid>{39D6F528-E34E-41A6-91F2-CF875B170703}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>xxx</RootNamespace>
-    <AssemblyName>xxx</AssemblyName>
+    <RootNamespace>_1003_Herencia</RootNamespace>
+    <AssemblyName>1003_Herencia</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
